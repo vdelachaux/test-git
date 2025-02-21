@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="test-git" uuid="C35D42AD2F614840B750DFC128EFBF9D" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>

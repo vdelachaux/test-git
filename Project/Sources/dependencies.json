@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"4DPop": {
+			"github": "vdelachaux/4DPop",
+			"version": "latest"
+		}
+	}
+}
